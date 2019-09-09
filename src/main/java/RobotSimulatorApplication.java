@@ -7,6 +7,7 @@ public class RobotSimulatorApplication {
     static Robot robot = new Robot();
 
     public static void main(String[] args) {
+
         BufferedReader br = null;
         try {
             br = new BufferedReader(new InputStreamReader(System.in));
